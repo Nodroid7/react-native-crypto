@@ -110,7 +110,7 @@ const hashed = Crypto.createHash('sha256')
 
 <!-- Onin -->
 <div align="center">
-<img height="50" src="./img/sponsors/onin.svg" align="center"><br/>
+<img height="50" src="./img/sponsors/onin.svg" align="right"><br/>
 <a href="https://onin.co"><b>Onin</b></a> - This library is supported by Onin. Plan events without leaving the chat: <a href="https://onin.co">onin.co</a>
 </div>
 <br/>
